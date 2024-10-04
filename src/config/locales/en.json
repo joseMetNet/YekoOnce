@@ -1,0 +1,19 @@
+{
+	"global": {
+		"error_server": "An error occurred on the server",
+		"test_created": "The test was successfully created",
+		"invalid_body": "Incorrect request data",
+		"successful_operation": "The operation was successful",
+		"bad_credentials": "Incorrect credentials",
+		"not_authorization": "You do not have authorization permissions",
+		"not_found": "The resource was not found",
+		"not_file": "No files to upload - key: file",
+		"error_routes": "Error in required fields"
+	},
+	"example": {
+		"validate_id": "The _id is required",
+		"succesfull": "OK",
+		"errorInRepository": "Check the logs for the repository: {{name}}",
+		"idComposed": "Example id: {{_id}}"
+	}
+}

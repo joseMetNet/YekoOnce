@@ -1,0 +1,19 @@
+{
+	"global": {
+		"error_server": "Ocurrió un error en el servidor",
+		"test_created": "Se creo con exito el test",
+		"invalid_body": "Datos del request incorrectos",
+		"successfull_operation": "La operación se realizó con exito",
+		"bad_credentials": "Credenciales incorrectas",
+		"not_authorization": "No tienes permisos de autorizacion",
+		"not_found": "No se encontro el recurso",
+		"not_file": "No hay archivos que subir - key: archivo",
+		"error_routes": "Error en los campos requeridos"
+	},
+	"example": {
+		"validate_id": "El _id es requerido",
+		"succesfull": "OK",
+		"errorInRepository": "Verifica los logs para el repository: {{name}}",
+		"idComposed": "Ejemplo id: {{_id}}"
+	}
+}
